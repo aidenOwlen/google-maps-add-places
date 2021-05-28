@@ -1,0 +1,1 @@
+Bot That includes a user interface where you put infos & login username / password , start button => Login to google maps and add missing places using detailed info you types into the software
